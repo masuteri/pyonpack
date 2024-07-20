@@ -1,0 +1,13 @@
+name = "Cat Loaf"
+filename = "catloaf-1.1.0-1.20.x-FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q1ZgOTni/versions/4Tg5EAsN/catloaf-1.1.0-1.20.x-FABRIC.jar"
+hash-format = "sha1"
+hash = "9c1f9fe0cfe9ae4821ad595711a5aacd535ead80"
+
+[update]
+[update.modrinth]
+mod-id = "Q1ZgOTni"
+version = "4Tg5EAsN"

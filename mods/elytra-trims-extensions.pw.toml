@@ -1,0 +1,13 @@
+name = "Elytra Trims Extensions"
+filename = "elytratrims_extensions-fabric-2.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5edtQ4at/versions/Xx6UvXDg/elytratrims_extensions-fabric-2.2.1.jar"
+hash-format = "sha1"
+hash = "4382ff5ba7a5b7d0703879873ddb4c44291f4cf1"
+
+[update]
+[update.modrinth]
+mod-id = "5edtQ4at"
+version = "Xx6UvXDg"

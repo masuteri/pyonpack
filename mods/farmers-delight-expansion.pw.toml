@@ -1,0 +1,13 @@
+name = "Farmer's Delight Expansion"
+filename = "FarmersDelight-Expansion-1.2.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O158bLYR/versions/Juif3630/FarmersDelight-Expansion-1.2.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "90f49c8d7f698c7b1a5a40187760ab0cd89d1334"
+
+[update]
+[update.modrinth]
+mod-id = "O158bLYR"
+version = "Juif3630"

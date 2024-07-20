@@ -1,0 +1,13 @@
+name = "Nature's Spirit - Create Recipe Compat"
+filename = "ns-cr-rc-0.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f9HHknd6/versions/ZqpW9xJR/ns-cr-rc-0.0.0.jar"
+hash-format = "sha1"
+hash = "574b948edaaf0f0377ba13ab63f5e8d7dd573da3"
+
+[update]
+[update.modrinth]
+mod-id = "f9HHknd6"
+version = "ZqpW9xJR"

@@ -1,0 +1,13 @@
+name = "Oxidizing Lightning Rods"
+filename = "oxirods-1.20.1-7-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fyn3yif8/versions/3Uz8gwlc/oxirods-1.20.1-7-fabric.jar"
+hash-format = "sha1"
+hash = "fd3943b5dd3dbf16884e1980fc0e22967c19cf4e"
+
+[update]
+[update.modrinth]
+mod-id = "Fyn3yif8"
+version = "3Uz8gwlc"

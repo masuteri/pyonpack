@@ -1,0 +1,13 @@
+name = "EmoteTweaks"
+filename = "EmoteTweaks-4.0.3.37.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QfXPAsap/versions/iHqS2PKh/EmoteTweaks-4.0.3.37.jar"
+hash-format = "sha1"
+hash = "27175c6a481d19f27ca2bdfe02a618e4daa0f78d"
+
+[update]
+[update.modrinth]
+mod-id = "QfXPAsap"
+version = "iHqS2PKh"

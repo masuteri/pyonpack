@@ -1,0 +1,13 @@
+name = "Way Much Faster Oxidize Reborn"
+filename = "WMFO-Reborn-1.19.2-1.21- 1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fcp2WUXH/versions/7XWEF5gg/WMFO-Reborn-1.19.2-1.21-%201.4.3.jar"
+hash-format = "sha1"
+hash = "be95b807e69f8688a1873fb9a6d2a5f93ee5941b"
+
+[update]
+[update.modrinth]
+mod-id = "Fcp2WUXH"
+version = "7XWEF5gg"

@@ -1,0 +1,13 @@
+name = "Player Plates (Obsidian Plates)"
+filename = "playerplates-fabric-3.0.1+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ADYYN3JG/versions/fktKnEOO/playerplates-fabric-3.0.1%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "9cf1e62514c5fc812f9f23b93d81242183d695bc"
+
+[update]
+[update.modrinth]
+mod-id = "ADYYN3JG"
+version = "fktKnEOO"

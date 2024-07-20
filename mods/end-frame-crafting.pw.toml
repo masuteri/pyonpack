@@ -1,0 +1,13 @@
+name = "End Frame Crafting"
+filename = "endportalcraft-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9OKY2RVv/versions/WlDF3jDw/endportalcraft-1.2.0.jar"
+hash-format = "sha1"
+hash = "235f0a2d87adbdf8f74e7396ca6f799677e930f8"
+
+[update]
+[update.modrinth]
+mod-id = "9OKY2RVv"
+version = "WlDF3jDw"
