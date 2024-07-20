@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/FUNDING.yml"
+hash = "4548053d1ae59104f095ec0a2f083d425534f4d58c16168ab39c48e27c3d1257"
+
+[[files]]
 file = "config/naturallychargedcreepers.json5"
 hash = "ef4e486b3ee395b9ca9ff33da70d0811fc917b7bc397bbb36ff9152a98efb754"
 
@@ -139,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/biome-tinted-flowers.pw.toml"
 hash = "706cfd0ff93925deb91fb62f58ade8ea1f80b13e0b7e766dab11544a4892c688"
+metafile = true
+
+[[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "cececdd6c8b1b3ebe9907176ec8eb9510ccfde9b1bcfc7f05f92383867ae216e"
 metafile = true
 
 [[files]]
@@ -327,6 +336,11 @@ hash = "89d22d515a1b5b1349b21eaa191a00bf529acca7673ba6af27dfda0380abea2b"
 metafile = true
 
 [[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "9a550f7a6e5ad884b4ddd6d5abd912ee5ae5da688aac19041f99de43a6ce2b57"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "4bddb852809c3838923f41d8538b3c8160dfba52df156583e7b32337a4dc113b"
 metafile = true
@@ -504,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "5e60804222681b936e5878d228fb10b5682e3af1d0eedbe120c0b4ee63cc8aaf"
+metafile = true
+
+[[files]]
+file = "mods/horseinboat.pw.toml"
+hash = "e3b590f63c34aebb68e84b5f63d6b73e40654f914811833691042c8512d42d42"
 metafile = true
 
 [[files]]
