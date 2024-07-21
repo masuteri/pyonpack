@@ -1,6 +1,6 @@
 name = "Naturally Charged Creepers"
 filename = "naturallychargedcreepers-1.20.1-3.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/j5LquiGA/versions/Duda19mH/naturallychargedcreepers-1.20.1-3.4.jar"

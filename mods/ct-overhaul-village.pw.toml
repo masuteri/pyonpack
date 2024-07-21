@@ -1,6 +1,6 @@
 name = "ChoiceTheorem's Overhauled Village"
 filename = "[Fabric]CTOV-v3.4.6.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fgmhI8kH/versions/LKEra9cd/%5BFabric%5DCTOV-v3.4.6.jar"
