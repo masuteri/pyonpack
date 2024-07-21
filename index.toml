@@ -591,6 +591,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "c1362fbf363dd8763588218dfc96daa7ee33b33a5fdd01b9f7aed80aca022ab7"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
