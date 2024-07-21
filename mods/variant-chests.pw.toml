@@ -1,0 +1,13 @@
+name = "Variant Chests"
+filename = "variantchests-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e1pVqFHg/versions/UGnT97v6/variantchests-1.5.jar"
+hash-format = "sha1"
+hash = "793e8aa9978732ea2e8a8b08de11a84a40ec7e59"
+
+[update]
+[update.modrinth]
+mod-id = "e1pVqFHg"
+version = "UGnT97v6"

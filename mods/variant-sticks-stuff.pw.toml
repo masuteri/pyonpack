@@ -1,0 +1,13 @@
+name = "Variant Sticks & Stuff"
+filename = "vsas-4.2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LxkCN3jf/versions/kHtiZdl3/vsas-4.2.6.jar"
+hash-format = "sha1"
+hash = "5b8f6802d1d514b812b21f83422deb9b6e261391"
+
+[update]
+[update.modrinth]
+mod-id = "LxkCN3jf"
+version = "kHtiZdl3"

@@ -1,0 +1,13 @@
+name = "Variant Beehives"
+filename = "variantbeehives-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iZKVfhNM/versions/XlFBKoUA/variantbeehives-1.2.jar"
+hash-format = "sha1"
+hash = "f3df3628d0f9482576cb3be78207cb1cd3159cf1"
+
+[update]
+[update.modrinth]
+mod-id = "iZKVfhNM"
+version = "XlFBKoUA"

@@ -1,0 +1,13 @@
+name = "Variant Fletching Tables"
+filename = "variantfletchingtables-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/D5uT8igl/versions/5CMOnXRG/variantfletchingtables-1.2.1.jar"
+hash-format = "sha1"
+hash = "5a7cdf37299f80e39f2c77f196b0966e1be35987"
+
+[update]
+[update.modrinth]
+mod-id = "D5uT8igl"
+version = "5CMOnXRG"

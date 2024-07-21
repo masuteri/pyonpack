@@ -841,8 +841,48 @@ hash = "a31a9db89b6b0a610ae4b78edcf0f20527e6bde59bf47814d0d817be7c9a9dd6"
 metafile = true
 
 [[files]]
-file = "mods/variant-vanilla-blocks.pw.toml"
-hash = "b44fe20480e3cc056ba0309e4997fe59ba5aba617410009317274c03a3487ab9"
+file = "mods/variant-barrels.pw.toml"
+hash = "80d39c019fd027968853a4df2e844d1136cf4392227fbfc5bb5d620e67b8b96a"
+metafile = true
+
+[[files]]
+file = "mods/variant-beehives.pw.toml"
+hash = "14e95bc679926b7eb48a141baa99028054391d50fc495f9d3f566e5d30d02ff6"
+metafile = true
+
+[[files]]
+file = "mods/variant-bookshelves.pw.toml"
+hash = "cf7256f1c3d2255545691b45ac2ce6eeaae1fbf8be2741b9848783a047c9ca40"
+metafile = true
+
+[[files]]
+file = "mods/variant-chests.pw.toml"
+hash = "6e9854a7d38255a1282dc7c6b810eb48aef5be7f9038987c56bbc892f14e8ecb"
+metafile = true
+
+[[files]]
+file = "mods/variant-chiseled-bookshelves.pw.toml"
+hash = "2f1949bcf057bf0d4aa266443cc2a3b2d13bc0a7e6839f2ab760b1ba0cd22dc1"
+metafile = true
+
+[[files]]
+file = "mods/variant-composters.pw.toml"
+hash = "09dc71d20e87650aff1f1037a6e9d35d0d078e094e7c165f58d2a097daaea296"
+metafile = true
+
+[[files]]
+file = "mods/variant-crafting-tables.pw.toml"
+hash = "cad8c8d3faf6a4e555872420599e677439b6b6296e520d91a2717c6426aa16d6"
+metafile = true
+
+[[files]]
+file = "mods/variant-fletching-tables.pw.toml"
+hash = "8352675e4ed15b3c96c354582bbfc90a2adf23307afe61b30f928adad5a72f8a"
+metafile = true
+
+[[files]]
+file = "mods/variant-sticks-stuff.pw.toml"
+hash = "f2ca8f4bd3414ea6574ecf27f8ff1e984fb338d2b29b4ba60ffa2a1ae6205649"
 metafile = true
 
 [[files]]
