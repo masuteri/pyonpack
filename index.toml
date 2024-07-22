@@ -261,6 +261,11 @@ hash = "c5ed8f788371776fa029b0e5a2ea95b56ffd7611a1b31dc93100d39d0f1fcbd5"
 metafile = true
 
 [[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+hash = "ec59a461cbe72e6013f814b29b98817ca9e294ae4e3d401788134fec16cd693e"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
@@ -288,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/create_oxidized.pw.toml"
 hash = "76cdd4223c19819d5b2eceaa1866e10ce80dc0226e75ef31581f46859e2e5c06"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "d7efd7d686ed6465c3eb2a71a5be177876a774388fbb31804c29f3c55141b8df"
 metafile = true
 
 [[files]]
@@ -441,6 +451,11 @@ hash = "5eef1938b4896bd14334d2ba099014bf81c73b840a73937232abfa4a4b81e2cd"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "06859e85abd86899e44b38c090d53f5804550aca2a23924fbb6bb1867d0b859a"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "3ae3bffdac2e274dd7ba6feaf76f89572dbf97c025cfa8c798978c089e309620"
 metafile = true
@@ -513,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/hephaestus.pw.toml"
+hash = "a956c6e7dea778d088b0059ba7019c139b9477d80bab38a22fa00e4b984a94af"
 metafile = true
 
 [[files]]
@@ -826,6 +846,11 @@ hash = "11119a11b9bfbba1a04d7abe3b66d1f27ea7d352153fdf9926555631e8c23d76"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "67290d6986ff23778b37e49da990b693f2e2574ac69370f854b02f11245a05b6"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "a0de07d074c2f5d0e72f70a7b066f4d5aa2748179f05ddca2189376651c29464"
 metafile = true
@@ -878,11 +903,6 @@ metafile = true
 [[files]]
 file = "mods/variant-fletching-tables.pw.toml"
 hash = "8352675e4ed15b3c96c354582bbfc90a2adf23307afe61b30f928adad5a72f8a"
-metafile = true
-
-[[files]]
-file = "mods/variant-sticks-stuff.pw.toml"
-hash = "f2ca8f4bd3414ea6574ecf27f8ff1e984fb338d2b29b4ba60ffa2a1ae6205649"
 metafile = true
 
 [[files]]
