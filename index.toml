@@ -531,6 +531,11 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "3a7db6706e525500dfc81b151f87a60e9719cc24ed3e43c51de90d5e786f49d5"
+metafile = true
+
+[[files]]
 file = "mods/hephaestus.pw.toml"
 hash = "a956c6e7dea778d088b0059ba7019c139b9477d80bab38a22fa00e4b984a94af"
 metafile = true
@@ -563,11 +568,6 @@ metafile = true
 [[files]]
 file = "mods/inertiaanticheat.pw.toml"
 hash = "dfd0ccee152dcb5fcb2343452af5b761520b67d892e27c73b9a362e1d53dd477"
-metafile = true
-
-[[files]]
-file = "mods/iris-flw-compat.pw.toml"
-hash = "3ed7175a4aa7b6f314f844c9b1a0838736f227707fa924b00e6a2957dcaa974c"
 metafile = true
 
 [[files]]
@@ -713,6 +713,11 @@ metafile = true
 [[files]]
 file = "mods/oxidizing-lightning-rods.pw.toml"
 hash = "b99c4ea485c57c9406045a40210b75abf44f16103d025a3beda37aee674e46c4"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "bcab2649d66eaf63afd6cd4cbfed7d3721adfc042b5f942932fe90e65526b556"
 metafile = true
 
 [[files]]
