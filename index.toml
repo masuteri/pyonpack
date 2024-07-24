@@ -51,11 +51,6 @@ hash = "44e55412afe359a1a0f7bfd33cbb5eb87bf6283f053bbbd2d1770e02e9b83c86"
 metafile = true
 
 [[files]]
-file = "mods/anti-xray.pw.toml"
-hash = "2b66c02d4d4761a2a1ed805a391a9294ba29103182b86092423ca5c908421e8e"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -237,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "7008fa098a716dd23501dd5f37f163bba1621bc1b8abd1a68725adf54e64564e"
+hash = "3d35417afcaac0e90474e2c321b407364ea680ffa04b7b5146e7f5feb8d5b05a"
 metafile = true
 
 [[files]]
@@ -366,11 +361,6 @@ hash = "67f86fbf1f85c1bb895d12c81bc6546befdc1b5f2016e50f25e90f4738e28aea"
 metafile = true
 
 [[files]]
-file = "mods/easy-magic.pw.toml"
-hash = "66bfaf23e46a6862f29ad0a95d09ccee0039bfc1f3d5d227956225cdddc0085c"
-metafile = true
-
-[[files]]
 file = "mods/elytra-drag.pw.toml"
 hash = "5384413d89a79d74bb07887a700619b857e3930b1926b779376afc079e72d35e"
 metafile = true
@@ -382,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
-hash = "3760a492d6a0d7a7cd46c0e7b87b9659da2ea37dd73ff87e2507b5f018c5a7af"
+hash = "b45a1fb32ad0ccd32cc4a71820259dfb23d8aa68660f6fff8815f7427122427b"
 metafile = true
 
 [[files]]
@@ -601,6 +591,11 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "cf4d50556f99d310bea0745680a9d8574791ad55880e5a8d85029e85711601ff"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "863c7625ed377ba905368ec8cb50a29d2ad23c833b50d7808f933aecbe1bcad4"
 metafile = true
@@ -617,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "c1362fbf363dd8763588218dfc96daa7ee33b33a5fdd01b9f7aed80aca022ab7"
+hash = "72b2a495aae6c3fdee3fac74de0f94d1cfc85514e396103c29552dc4d57fe68d"
 metafile = true
 
 [[files]]
@@ -938,6 +933,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "5fa3a100f874ad3d03b674e867105fc7cc7dcf98b5c1c50d7841a25a0dda4607"
+metafile = true
+
+[[files]]
+file = "mods/yetjustanothersilver.pw.toml"
+hash = "54b6feb4be67b7944c8fc2cb434d230290bd69a9db7c076495b682db9c1184f5"
 metafile = true
 
 [[files]]
