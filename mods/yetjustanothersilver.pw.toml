@@ -1,0 +1,8 @@
+name = "PaletteNoCrashy"
+filename = "PaletteNoCrashy-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/aikoyori/PaletteNoCrashy/releases/download/1.0.0/PaletteNoCrashy-1.0.0.jar"
+hash-format = "sha1"
+hash = "2956b1108a89c19242cd375804f2f367871a7487"
