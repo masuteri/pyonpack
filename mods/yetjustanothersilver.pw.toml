@@ -1,8 +1,8 @@
-name = "PaletteNoCrashy"
-filename = "PaletteNoCrashy-1.0.0.jar"
-side = "client"
+name = "YetJustAnotherSilver"
+filename = "YetJustAnotherSilver-1.0.0.jar"
+side = "both"
 
 [download]
-url = "https://github.com/aikoyori/PaletteNoCrashy/releases/download/1.0.0/PaletteNoCrashy-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/dsEsgw8u/versions/9DlpVW2e/YetJustAnotherSilver-1.0.0.jar"
 hash-format = "sha1"
-hash = "2956b1108a89c19242cd375804f2f367871a7487"
+hash = "ce760aa485eec537b00c4854dec344da09fc50f6"
