@@ -886,6 +886,11 @@ hash = "a31a9db89b6b0a610ae4b78edcf0f20527e6bde59bf47814d0d817be7c9a9dd6"
 metafile = true
 
 [[files]]
+file = "mods/vanity.pw.toml"
+hash = "721c43a84c2d1d89716d0ddf51366b4b79626f20f631d7948ab1a135d0645684"
+metafile = true
+
+[[files]]
 file = "mods/variant-barrels.pw.toml"
 hash = "80d39c019fd027968853a4df2e844d1136cf4392227fbfc5bb5d620e67b8b96a"
 metafile = true
