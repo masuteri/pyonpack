@@ -1,6 +1,6 @@
 name: Issue report
 title: "[BUG]: "
-description: "Let us know of an issue you're having with the modpack"
+description: "Let us know of an issue you're having with the modpack (crash, bug etc)"
 labels: ["bug", "not reviewed"]
 body: 
   - type: input
