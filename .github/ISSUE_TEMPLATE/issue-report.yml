@@ -1,0 +1,66 @@
+name: Issue report
+title: "[BUG]: "
+description: "Let us know of an issue you're having with the modpack"
+labels: ["bug", "not reviewed"]
+body: 
+  - type: input
+    id: modpack-version
+    attributes:
+      label: Pyonpack version
+      description: "...to make sure what you're reporting is not already handled"
+      placeholder: "'Latest' is not a valid version"
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: "## Issue Description"
+  
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe your issue
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1.\n2.\n3."
+      description: "Also list the mod causing it"
+    validations:
+      required: false
+  
+  - type: textarea
+    id: workarounds
+    attributes:
+      label: Possibly workarounds
+    validations:
+      required: false
+  
+  - type: textarea
+    id: crash-report
+    attributes:
+      label: Crash Report
+      description: "Paste the crash report here, if present"
+      render: shell
+    validations:
+      required: false
+
+  - type: textarea
+    id: log
+    attributes:
+      label: Log
+      description: "Paste the log here"
+      render: shell
+    validations:
+      required: true
+  
+  - type: textarea
+    id: other-mods
+    attributes:
+      label: Other mods
+      description: "Other mods installed if any"
+    validations:
+      required: false

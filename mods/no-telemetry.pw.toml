@@ -1,6 +1,6 @@
 name = "No Telemetry"
 filename = "no-telemetry-1.8.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hg77g4Pw/versions/tmHWmt1u/no-telemetry-1.8.0.jar"

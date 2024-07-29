@@ -1,8 +1,13 @@
 name = "YetJustAnotherSilver"
-filename = "YetJustAnotherSilver-1.0.0.jar"
+filename = "YetJustAnotherSilver-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dsEsgw8u/versions/9DlpVW2e/YetJustAnotherSilver-1.0.0.jar"
-hash-format = "sha1"
-hash = "ce760aa485eec537b00c4854dec344da09fc50f6"
+url = "https://cdn.modrinth.com/data/dsEsgw8u/versions/ID5Mtsi5/YetJustAnotherSilver-1.0.1.jar"
+hash-format = "sha256"
+hash = "f30680aa46d2cc99a6c0286940906d881d87b74cd143ce6198c44c2f2b56fc0c"
+
+[update]
+[update.modrinth]
+mod-id = "dsEsgw8u"
+version = "ID5Mtsi5"

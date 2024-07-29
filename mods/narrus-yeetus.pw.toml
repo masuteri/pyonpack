@@ -1,0 +1,13 @@
+name = "NarrusYeetus"
+filename = "NarrusYeetus-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xt7qZAZo/versions/a27Z6E55/NarrusYeetus-1.1.0.jar"
+hash-format = "sha1"
+hash = "2fa62f91c4be4f21edb8f21fbea63ed8b47da098"
+
+[update]
+[update.modrinth]
+mod-id = "Xt7qZAZo"
+version = "a27Z6E55"

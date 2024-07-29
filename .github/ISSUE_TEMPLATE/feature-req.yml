@@ -1,0 +1,22 @@
+name: Feature request
+title: "[FEAT REQ]: "
+description: Suggest something to change, add or remove
+labels: ["enhancement", "not reviewed"]
+body:
+  - type: input
+    id: modpack-version
+    attributes:
+      label: Pyonpack version
+      description: "...to make sure you're not missing out on anything."
+      placeholder: "'Latest' is not a valid version"
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: "Suggestion(s)"
+      description: "Describe your suggestion, and alternatives that you've though of, if relevant"
+      placeholder: "We should add x, because..., we should change x, because..."
+    validations:
+      required: true

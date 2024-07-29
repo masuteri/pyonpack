@@ -1,0 +1,8 @@
+name = "MineableUnmineable"
+filename = "MineableUnmineable-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Aikoyori/MineableUnmineable/releases/download/1.0.0/MineableUnmineable-1.0.0.jar"
+hash-format = "sha256"
+hash = "9c3994a3892ef4f51d0a3bf715470ced4b7f673483f44fb7bf8a44dc6316c950"

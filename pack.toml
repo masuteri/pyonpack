@@ -1,13 +1,16 @@
 name = "Pyonpack"
 author = "masuteri"
-version = "0.3.4"
+version = "0.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8bfb8852e000b4b7562072e503cb47c47f8cbcea4e4977a30fe1b6483b1c8c5e"
+hash = "a3e70feb5281c6cb0279158ba4f93524591124b1b81688da2a5ed5952c1d7519"
 
 [versions]
 fabric = "0.16.0"
 minecraft = "1.20.1"
+
+[options]
+datapack-folder = "datapacks"
