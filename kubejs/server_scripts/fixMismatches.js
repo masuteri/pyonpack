@@ -9,6 +9,7 @@ ServerEvents.tags('item', event => {
 
     const metals = [
         'iron',
+        'silver',
         'gold',
         'copper',
         'cobalt',

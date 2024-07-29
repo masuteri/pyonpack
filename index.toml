@@ -69,14 +69,6 @@ file = "config/veinmining-server.toml"
 hash = "6dab6d14bf265c5c98dcba2fd2fdee5657c6752be274b0a8b5bb873fc34a6db2"
 
 [[files]]
-file = "datapacks/DimdoorsLessPillarsDatapack.zip"
-hash = "f3007220245858dd7c3444ebac7650d6c37c0a0962ec89f6facfbdd49db6eb96"
-
-[[files]]
-file = "datapacks/default_fabric_seasons_data.zip"
-hash = "b0790b220f64b38a3a91fa62f009f3603173721109eb4b13dd955a736d5edc09"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -101,8 +93,16 @@ file = "kubejs/config/packicon.png"
 hash = "550de05db0dbec117dedeed8e4d29dabe80230a1ab37a439d5f991355682df30"
 
 [[files]]
+file = "kubejs/data/FixSilverOre.zip"
+hash = "57b85b396713f94e00d3f9c237a4c4927ec8da9c438e4ceb714eaa6a51293c5e"
+
+[[files]]
+file = "kubejs/data/default_fabric_seasons_data.zip"
+hash = "b0790b220f64b38a3a91fa62f009f3603173721109eb4b13dd955a736d5edc09"
+
+[[files]]
 file = "kubejs/server_scripts/fixMismatches.js"
-hash = "d33d1ff811a4526f5a80bd848ae8dbab3b69e3da2a9484a8f320149f95fa8880"
+hash = "c2106095a94fef59c9783dcdbaad7368cdc84e0a73c7594831d719296e07dc9c"
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
@@ -1142,3 +1142,7 @@ metafile = true
 [[files]]
 file = "server-icon.png"
 hash = "550de05db0dbec117dedeed8e4d29dabe80230a1ab37a439d5f991355682df30"
+
+[[files]]
+file = "spyglass.json"
+hash = "f327919b19ab885faf9508cfc718763b0d0f89cb4b9c979cd1f91e739170271e"
