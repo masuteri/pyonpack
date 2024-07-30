@@ -93,10 +93,6 @@ file = "kubejs/config/packicon.png"
 hash = "550de05db0dbec117dedeed8e4d29dabe80230a1ab37a439d5f991355682df30"
 
 [[files]]
-file = "kubejs/data/FixSilverOre.zip"
-hash = "57b85b396713f94e00d3f9c237a4c4927ec8da9c438e4ceb714eaa6a51293c5e"
-
-[[files]]
 file = "kubejs/data/default_fabric_seasons_data.zip"
 hash = "b0790b220f64b38a3a91fa62f009f3603173721109eb4b13dd955a736d5edc09"
 
@@ -1096,7 +1092,7 @@ metafile = true
 
 [[files]]
 file = "mods/yetjustanothersilver.pw.toml"
-hash = "3cfac8fd8bc655e7b255c1a2af721beb57e22942a13409df079348f7fab30464"
+hash = "889f33c590ae2ef5066b5afa7c354aa0226bfc655bd7bf2566a3c13262198041"
 metafile = true
 
 [[files]]
