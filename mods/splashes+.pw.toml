@@ -1,0 +1,13 @@
+name = "Splashes+"
+filename = "splashesplus-0.1.5+1.20.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ALVENuGi/versions/4OFCPpqH/splashesplus-0.1.5%2B1.20.0.jar"
+hash-format = "sha1"
+hash = "705e488922a1c7e65ad9a12953b4c68a0d69f31d"
+
+[update]
+[update.modrinth]
+mod-id = "ALVENuGi"
+version = "4OFCPpqH"

@@ -21,6 +21,10 @@ file = "config/bigendcitiesmodconfig.properties"
 hash = "10ac16302759974ebe20ee4379ad3112606fe41b69979f24c419c977dd1734ce"
 
 [[files]]
+file = "config/c2me.toml"
+hash = "3cc657f1db21c3b4d8f7cbad9734ea10c3900f1a5de3b011d6270fdadd7d1703"
+
+[[files]]
 file = "config/carpet/default_carpet.conf"
 hash = "9798afffa353f6481f094b18a4b21b9a1806383cf3b374aefb398938b3300b0f"
 
@@ -73,12 +77,8 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/block/example_block.png"
-hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/example_item.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+file = "kubejs/assets/splashesplus/texts/splashes/minecraft.json"
+hash = "96a3b1429416e6a66c8d7a4e91348f4d144fd550cd2faa857b4480e356dbd7e7"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -99,6 +99,10 @@ hash = "b0790b220f64b38a3a91fa62f009f3603173721109eb4b13dd955a736d5edc09"
 [[files]]
 file = "kubejs/server_scripts/fixMismatches.js"
 hash = "c2106095a94fef59c9783dcdbaad7368cdc84e0a73c7594831d719296e07dc9c"
+
+[[files]]
+file = "kubejs/startup_scripts/flamingRubyNerf.js"
+hash = "a04c9a28c3b88bea264b2ba009be69fad08aa327d549dab105d5d688c240381c"
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
@@ -963,6 +967,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "5f2efbb6362b829766025b8714593308f89fd46b05a36e302c760227e6611304"
+metafile = true
+
+[[files]]
+file = "mods/splashes+.pw.toml"
+hash = "7076cf0f1cd5f3d0524b9973bda2867794d31267e2d39b5c891ecbce61174596"
 metafile = true
 
 [[files]]
