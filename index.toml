@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d356b98d05375514a4d537ea89a1684aa8b29f9af03ca2dd4a0f150a856f6556"
+hash = "d20fa45129b302c95bfeeefc4497841309a6b15f2c73736be0c39addedcaf38d"
 metafile = true
 
 [[files]]
@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "520c644143412287925e7fefef2781e876df86eb874ba5617b6f9beb662ac80c"
+hash = "04a63264b461340b3fbb4cfb76e6a9f5bf3dcafcfea915680a0673b719583cf7"
 metafile = true
 
 [[files]]
@@ -531,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "26b411aed3e184ea101f2df0fdfc9e4ff7382cb2daf8ae0fdb98e7fd3032b53b"
+hash = "6f33e7987c00191a7290c2c541ff3c82be88d1a826f1749d523a1471a602cf21"
 metafile = true
 
 [[files]]
@@ -680,6 +680,11 @@ hash = "c43375da9a71c4a51f171be02d148cc6e7d22b0b1294fed996d88616b4184aa1"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "2516da6e994384dc1087e972510efdb88502b19bf141c5b86212a4b0655ddbfc"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -786,12 +791,12 @@ metafile = true
 
 [[files]]
 file = "mods/natures-delight.pw.toml"
-hash = "37ffb42f678a427d850ab47d16e93c6218de39c4cc27001f7ce5a97565b2efdf"
+hash = "a12509d0468260734c1753de2f2910ff919445716ff8fe3d3c6d2de8b279ef8a"
 metafile = true
 
 [[files]]
 file = "mods/natures-spirit.pw.toml"
-hash = "9b977aed919559f179c9efdbf8a8437c907218bc54dca4c5800604ddb4b9d261"
+hash = "dcba84be48bd7e640030f1e481f809d8d13f8f663eea31a41a3e9665b79bc605"
 metafile = true
 
 [[files]]
@@ -851,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "bcab2649d66eaf63afd6cd4cbfed7d3721adfc042b5f942932fe90e65526b556"
+hash = "b5fb8363a86db221492b2b40a5a8ce8778b64cfaf9d08408b58793f09e3456a7"
 metafile = true
 
 [[files]]
@@ -921,7 +926,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud-fabric.pw.toml"
-hash = "025f607761726a4f714224ca83dc98d74080df06846c93f344f1d2a994cc0477"
+hash = "ca20c45a8596e1f184c616c940b1f0afec8238fcd8c432e7b0afb19097477501"
 metafile = true
 
 [[files]]
