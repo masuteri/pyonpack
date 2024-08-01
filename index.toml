@@ -101,10 +101,6 @@ file = "kubejs/server_scripts/fixMismatches.js"
 hash = "c2106095a94fef59c9783dcdbaad7368cdc84e0a73c7594831d719296e07dc9c"
 
 [[files]]
-file = "kubejs/startup_scripts/flamingRubyNerf.js"
-hash = "a04c9a28c3b88bea264b2ba009be69fad08aa327d549dab105d5d688c240381c"
-
-[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "9aa5ebdf803d46de89cec36fbc208bda8e9eefc8bdace6bb9b9f924df5d0c6c4"
 metafile = true
