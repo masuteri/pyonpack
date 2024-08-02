@@ -931,11 +931,6 @@ hash = "bb57d8a6c0f2ec81e97915c00affaa644415b1d41f897d23a4972d0e9a2d5732"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "1802c094c28600a6f3fb498cbcfeeca6f3b6b7ade5e5a9e997d2ae9362545ece"
-metafile = true
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "97e82bdfb6735a8eed7f0a4727290d7cc2d3f7b2d4bf2d6a5ff4c7e34fea9513"
 metafile = true
@@ -1081,11 +1076,6 @@ hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
 
 [[files]]
-file = "mods/voice-chat-interaction.pw.toml"
-hash = "ed77ef0ba487dea1aa253926993b0a4b5bd03a4997d7ab42ea0ac7246040a03e"
-metafile = true
-
-[[files]]
 file = "mods/way-much-faster-oxidize-reborn.pw.toml"
 hash = "e48f819e57103b9316fc5610a0a31ae5383908b2f340a532279293b8927f5c70"
 metafile = true
@@ -1148,7 +1138,3 @@ metafile = true
 [[files]]
 file = "server-icon.png"
 hash = "550de05db0dbec117dedeed8e4d29dabe80230a1ab37a439d5f991355682df30"
-
-[[files]]
-file = "spyglass.json"
-hash = "f327919b19ab885faf9508cfc718763b0d0f89cb4b9c979cd1f91e739170271e"
