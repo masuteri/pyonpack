@@ -73,6 +73,10 @@ file = "config/veinmining-server.toml"
 hash = "6dab6d14bf265c5c98dcba2fd2fdee5657c6752be274b0a8b5bb873fc34a6db2"
 
 [[files]]
+file = "default-server.properties"
+hash = "bebbb97012caf452426bf8594816828d1e2556f0749c0b83616f3c1463763b44"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -428,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
+metafile = true
+
+[[files]]
+file = "mods/default-server-properties.pw.toml"
+hash = "d3befebcecd648583cb83594df3e0fda6287b73e0d211c243cd83ba4ecab52be"
 metafile = true
 
 [[files]]
