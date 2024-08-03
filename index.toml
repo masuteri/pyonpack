@@ -109,14 +109,6 @@ file = "kubejs/data/default_fabric_seasons_data.zip"
 hash = "b0790b220f64b38a3a91fa62f009f3603173721109eb4b13dd955a736d5edc09"
 
 [[files]]
-file = "kubejs/data/yjas/worldgen/configured_feature/silver_ore.json"
-hash = "30287f581397ae31bdbfccec6ee8431851dcaf34b66fb35c085f49a0e5b09f1d"
-
-[[files]]
-file = "kubejs/data/yjas/worldgen/placed_feature/silver_ore_placed.json"
-hash = "0c0711a9ef33ea4f08168848ee9e1459be12e9b24257f74849faf54b9a14a0f8"
-
-[[files]]
 file = "kubejs/server_scripts/fixMismatches.js"
 hash = "c2106095a94fef59c9783dcdbaad7368cdc84e0a73c7594831d719296e07dc9c"
 
