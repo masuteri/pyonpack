@@ -33,6 +33,10 @@ file = "config/chesttracker.json5"
 hash = "efec887a1e786635c024a98da796c0a6a5a557425d6909b8b483f2214d93a2aa"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "bf095594423190fd5685de637adbc006a82075e7f325ad27788ba3eecb9a4041"
+
+[[files]]
 file = "config/createfood.json5"
 hash = "fd6ea75f9da41e152d5a7b683b32bd0bf843b09d29829d2f3ddf135fe0692f7a"
 
@@ -43,6 +47,10 @@ hash = "4866d534f5944417491059aeed345176f01a2e3587b27816b8bb5a53e4ae7924"
 [[files]]
 file = "config/do_a_barrel_roll-server.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/leaves_us_in_peace.json"
+hash = "f7c4b7f22f5833d4abc807a50c037cbbab672adc598acfa9fc8e8d5ef05118b0"
 
 [[files]]
 file = "config/naturallychargedcreepers.json5"
@@ -82,7 +90,7 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/assets/splashesplus/texts/splashes/minecraft.json"
-hash = "96a3b1429416e6a66c8d7a4e91348f4d144fd550cd2faa857b4480e356dbd7e7"
+hash = "7c3e3065592ae799dca111c0de51428a82080972b525989a04a3e8ba3ca65dbe"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -99,6 +107,14 @@ hash = "550de05db0dbec117dedeed8e4d29dabe80230a1ab37a439d5f991355682df30"
 [[files]]
 file = "kubejs/data/default_fabric_seasons_data.zip"
 hash = "b0790b220f64b38a3a91fa62f009f3603173721109eb4b13dd955a736d5edc09"
+
+[[files]]
+file = "kubejs/data/yjas/worldgen/configured_feature/silver_ore.json"
+hash = "30287f581397ae31bdbfccec6ee8431851dcaf34b66fb35c085f49a0e5b09f1d"
+
+[[files]]
+file = "kubejs/data/yjas/worldgen/placed_feature/silver_ore_placed.json"
+hash = "0c0711a9ef33ea4f08168848ee9e1459be12e9b24257f74849faf54b9a14a0f8"
 
 [[files]]
 file = "kubejs/server_scripts/fixMismatches.js"
@@ -420,6 +436,11 @@ hash = "c163559322c64b37c02074f0774da6de8a5a2c6dd6f5cd7b51775596769268e1"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "e519048f1be3e12f717e5f812b0c407d01f1c178951468638581af2d19f6c689"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
 metafile = true
@@ -532,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "6f33e7987c00191a7290c2c541ff3c82be88d1a826f1749d523a1471a602cf21"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "4d013214266c48b8853463e428949881aa97c06684284dcb508a1932ab7c3593"
 metafile = true
 
 [[files]]
@@ -1092,6 +1118,11 @@ metafile = true
 [[files]]
 file = "mods/worldspecificviewdistance.pw.toml"
 hash = "2d2f66cf7a3207b4a1c47223486b36ffab018e3c545cab892db4fbd202c8a3fd"
+metafile = true
+
+[[files]]
+file = "mods/xxl-packets.pw.toml"
+hash = "6f4ce82de5399daf1dd136b34550cbd0b1bee4f68c4118233472af41c7e6d45e"
 metafile = true
 
 [[files]]

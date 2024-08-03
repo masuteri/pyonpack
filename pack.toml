@@ -1,12 +1,12 @@
 name = "Pyonpack"
 author = "masuteri"
-version = "0.4.3"
+version = "0.4.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "34ce17adbe5a7e74ce13e5ec053d408c7f851cfbe9003c85716ddf9c95f9a067"
+hash = "d93fe6464814f793514cace0379a97b79ebeb14a2ef3731a642406fe2f626999"
 
 [versions]
 fabric = "0.16.0"
