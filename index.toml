@@ -34,7 +34,7 @@ hash = "efec887a1e786635c024a98da796c0a6a5a557425d6909b8b483f2214d93a2aa"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "bf095594423190fd5685de637adbc006a82075e7f325ad27788ba3eecb9a4041"
+hash = "6d3f4b450c97a1a48ef1737ec03e0ef3e2705720fe0edf7d83deff9e9f4bd447"
 
 [[files]]
 file = "config/createfood.json5"

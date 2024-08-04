@@ -372,7 +372,7 @@
 	#.
 	#The total amount of stacks a vault can hold per block in size.
 	#Range: > 1
-	vaultCapacity = 20
+	vaultCapacity = 36
 	#.
 	#Whether hostile mobs walking near a seat will start riding it.
 	seatHostileMobs = true
