@@ -873,11 +873,6 @@ hash = "b99c4ea485c57c9406045a40210b75abf44f16103d025a3beda37aee674e46c4"
 metafile = true
 
 [[files]]
-file = "mods/palettenocrashy.pw.toml"
-hash = "12e9edcbc0143557adb3f020a93965a9ddbd98bd61d3cd90af0982324891f3c0"
-metafile = true
-
-[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "b5fb8363a86db221492b2b40a5a8ce8778b64cfaf9d08408b58793f09e3456a7"
 metafile = true
