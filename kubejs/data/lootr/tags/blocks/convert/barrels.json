@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "values": [
+        "betterend:mossy_glowshroom_barrel",
+	"betterend:end_lotus_barrel",
+	"betterend:pythadendron_barrel",
+	"betterend:lacugrove_barrel",
+	"betterend:dragon_tree_barrel",
+	"betterend:tenanea_barrel",
+	"betterend:helix_tree_barrel",
+	"betterend:umbrella_tree_barrel",
+	"betterend:jellyshroom_barrel",
+	"betterend:lucernia_barrel"
+    ]
+}

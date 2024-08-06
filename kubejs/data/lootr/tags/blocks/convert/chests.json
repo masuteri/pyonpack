@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "values": [
+        "betterend:mossy_glowshroom_chest",
+	"betterend:end_lotus_chest",
+	"betterend:pythadendron_chest",
+	"betterend:lacugrove_chest",
+	"betterend:dragon_tree_chest",
+	"betterend:tenanea_chest",
+	"betterend:helix_tree_chest",
+	"betterend:umbrella_tree_chest",
+	"betterend:jellyshroom_chest",
+	"betterend:lucernia_chest"
+    ]
+}

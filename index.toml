@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ad_astra.jsonc"
+hash = "bed800af8239ebb3431d270bc36ca5f70a4da64967b693a0b5cdd573a33d825c"
+
+[[files]]
 file = "config/bclib/client.json"
-hash = "ac12976e3e553da18c3ead6ad833f1215fcf90f0647653b66128ea25f92af598"
+hash = "9cf87114a1e4f6ba76676c6e5cafd6c6e8f24db86ff093320bf53041f952b9cc"
 
 [[files]]
 file = "config/bclib/main.json"
@@ -17,8 +21,16 @@ file = "config/better_log4j_config.xml"
 hash = "98f807183fc61a50363d889d1f1571272c1c74ce116142aa356ba6c482c3394a"
 
 [[files]]
+file = "config/betternether/main.json"
+hash = "6fc4546d59376653a6914435e176dc0ee455696b4b966618bc668eea6f183ea1"
+
+[[files]]
 file = "config/bigendcitiesmodconfig.properties"
-hash = "10ac16302759974ebe20ee4379ad3112606fe41b69979f24c419c977dd1734ce"
+hash = "7eae3b4ca7b1919699450f90a5c0082fcaca2d68498c2876872766b73f3b6c14"
+
+[[files]]
+file = "config/bosses_of_mass_destruction.json5"
+hash = "9be79bbe40b6781e8529ef177ba7b3249a2d6069a2a136688cd64d5dd6b64ab0"
 
 [[files]]
 file = "config/c2me.toml"
@@ -58,7 +70,7 @@ hash = "c01440930d7ee26d72cd54503788422dd3cab68196cf968785d616d9e489f554"
 
 [[files]]
 file = "config/seasons.json"
-hash = "b84e359da659cfeb0498a728b80dfc688185befade76aec04f8c3c0b30fdb2b0"
+hash = "c519f321f91da80e6e82655b0dd1eadafa8a2da0dad20fd81545725851364146"
 
 [[files]]
 file = "config/tconstruct-common.toml"
@@ -81,10 +93,6 @@ file = "config/veinmining-server.toml"
 hash = "6dab6d14bf265c5c98dcba2fd2fdee5657c6752be274b0a8b5bb873fc34a6db2"
 
 [[files]]
-file = "default-server.properties"
-hash = "bebbb97012caf452426bf8594816828d1e2556f0749c0b83616f3c1463763b44"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -105,8 +113,140 @@ file = "kubejs/config/packicon.png"
 hash = "550de05db0dbec117dedeed8e4d29dabe80230a1ab37a439d5f991355682df30"
 
 [[files]]
-file = "kubejs/data/default_fabric_seasons_data.zip"
-hash = "b0790b220f64b38a3a91fa62f009f3603173721109eb4b13dd955a736d5edc09"
+file = "kubejs/data/lootr/tags/blocks/convert/barrels.json"
+hash = "a1c5a0f2731bc663c9d57c5700886fff86202623a17054cfecb914b4045bab28"
+
+[[files]]
+file = "kubejs/data/lootr/tags/blocks/convert/chests.json"
+hash = "71893b61f86303f514295c89a2c5560167e9e2993fec78ecf4f90a487c43b722"
+
+[[files]]
+file = "kubejs/data/minecraft/dimension_type/the_end.json"
+hash = "6db52cde1f3287053b8b68d7dc174a2435389d7e1edc5ce798e393f6fcd3cb49"
+
+[[files]]
+file = "kubejs/data/minecraft/seasons/crop/acacia_sapling.json"
+hash = "b27dbaadf11229dfe4bb0c13ac310da704ae194806933f052936a55206af433e"
+
+[[files]]
+file = "kubejs/data/minecraft/seasons/crop/beetroots.json"
+hash = "16afd2c3607ed4c8c04792a065a19c0133d87165730070344a105a2889ed8590"
+
+[[files]]
+file = "kubejs/data/minecraft/seasons/crop/birch_sapling.json"
+hash = "cb0dd14225561d28ddf30379fd958d5b458509c8f692f83989aac359f8d38e88"
+
+[[files]]
+file = "kubejs/data/minecraft/seasons/crop/carrots.json"
+hash = "3e08349f19e5703cddcbb16f4ab88cef1e652d983e66c27ca8e8d56f7a9a4d65"
+
+[[files]]
+file = "kubejs/data/minecraft/seasons/crop/cocoa.json"
+hash = "9948692f9588860864288dd9f55bda9aa432b0b2d3ac9587f07a0f1a593245f9"
+
+[[files]]
+file = "kubejs/data/minecraft/seasons/crop/dark_oak_sapling.json"
+hash = "cb0dd14225561d28ddf30379fd958d5b458509c8f692f83989aac359f8d38e88"
+
+[[files]]
+file = "kubejs/data/minecraft/seasons/crop/jungle_sapling.json"
+hash = "5b13102bfff50126c3e97e391bd851c669df3ff3dbc87cef5ec31096333504ef"
+
+[[files]]
+file = "kubejs/data/minecraft/seasons/crop/mangrove_propagule.json"
+hash = "5b13102bfff50126c3e97e391bd851c669df3ff3dbc87cef5ec31096333504ef"
+
+[[files]]
+file = "kubejs/data/minecraft/seasons/crop/melon_stem.json"
+hash = "017cb4925277998909d19b6bca3f8af88aa29821c9e8291eaf5f4ef441637b4c"
+
+[[files]]
+file = "kubejs/data/minecraft/seasons/crop/oak_sapling.json"
+hash = "cb0dd14225561d28ddf30379fd958d5b458509c8f692f83989aac359f8d38e88"
+
+[[files]]
+file = "kubejs/data/minecraft/seasons/crop/potatoes.json"
+hash = "eead6865ac96fdc6818f614c76dc83108debd2e97a1f300c4067278c2e2a8990"
+
+[[files]]
+file = "kubejs/data/minecraft/seasons/crop/pumpkin_stem.json"
+hash = "860e5c7a2edcd6364bdeb1e87890472ef986cd699db45bd46c24e835e9287237"
+
+[[files]]
+file = "kubejs/data/minecraft/seasons/crop/spruce_sapling.json"
+hash = "5b13102bfff50126c3e97e391bd851c669df3ff3dbc87cef5ec31096333504ef"
+
+[[files]]
+file = "kubejs/data/minecraft/seasons/crop/sweet_berry_bush.json"
+hash = "8d9f7ce7765805c22e29263192822173749e573c72482c7614bf3245d5899d9b"
+
+[[files]]
+file = "kubejs/data/minecraft/seasons/crop/wheat.json"
+hash = "e8650026b9cceaf1c0223bf0b6a1842064380c91611b9a4822935a64b01fed91"
+
+[[files]]
+file = "kubejs/data/natures_spirit/seasons/crop/aspen_sapling.json"
+hash = "cb0dd14225561d28ddf30379fd958d5b458509c8f692f83989aac359f8d38e88"
+
+[[files]]
+file = "kubejs/data/natures_spirit/seasons/crop/blue_wisteria_sapling.json"
+hash = "4dfbe3c78a2bce462902d7f78cfdf501e53dbb834cb0294aea11448b79b48824"
+
+[[files]]
+file = "kubejs/data/natures_spirit/seasons/crop/cedar_sapling.json"
+hash = "2f46943eb5873c158a623d3e2cd899c01beb38e586948cc4f51cdd0ee66c9d67"
+
+[[files]]
+file = "kubejs/data/natures_spirit/seasons/crop/cypress_sapling.json"
+hash = "174b400b765bdd6330dd7395ea80daf16fb27f665aef03d3aef5d8df1f523d48"
+
+[[files]]
+file = "kubejs/data/natures_spirit/seasons/crop/fir_sapling.json"
+hash = "02f9193ffc7eaa5ee29afd65fec8668992c66aae87a16a57b182dcd368ed4260"
+
+[[files]]
+file = "kubejs/data/natures_spirit/seasons/crop/ghaf_sapling.json"
+hash = "1c6893ee859e62f86e25680d1ab4a6c639ce4ead9edd260bdb527b98935d7670"
+
+[[files]]
+file = "kubejs/data/natures_spirit/seasons/crop/joshua_sapling.json"
+hash = "fb3b4fce4c66657594561a7bccc3b9406d084373c5fc2c3c059e1a83f65a9b92"
+
+[[files]]
+file = "kubejs/data/natures_spirit/seasons/crop/larch_sapling.json"
+hash = "5adf648e8fae038948b399194944226165e60e2067124e00ad56ca20a3f71203"
+
+[[files]]
+file = "kubejs/data/natures_spirit/seasons/crop/olive_sapling.json"
+hash = "6819164ad988ca4301f42fa30ed4a288462e61383524f76f954436eb5022f503"
+
+[[files]]
+file = "kubejs/data/natures_spirit/seasons/crop/palo_verde_sapling.json"
+hash = "f5fdbd81f989f666f566c78000d01ab570dcfc0e060f76b6f20b83341243dfb8"
+
+[[files]]
+file = "kubejs/data/natures_spirit/seasons/crop/pink_wisteria_sapling.json"
+hash = "4dfbe3c78a2bce462902d7f78cfdf501e53dbb834cb0294aea11448b79b48824"
+
+[[files]]
+file = "kubejs/data/natures_spirit/seasons/crop/purple_wisteria_sapling.json"
+hash = "4dfbe3c78a2bce462902d7f78cfdf501e53dbb834cb0294aea11448b79b48824"
+
+[[files]]
+file = "kubejs/data/natures_spirit/seasons/crop/redwood_sapling.json"
+hash = "39ba28fdbf035c9dd4659b3ca737cb0762ce98801ccd7870c522c9fd9a403149"
+
+[[files]]
+file = "kubejs/data/natures_spirit/seasons/crop/sugi_sapling.json"
+hash = "91bf7293ea65a34ed6a9f67ccc469ad6ba1facbe8cf3f7a88808743cfab04006"
+
+[[files]]
+file = "kubejs/data/natures_spirit/seasons/crop/white_wisteria_sapling.json"
+hash = "4dfbe3c78a2bce462902d7f78cfdf501e53dbb834cb0294aea11448b79b48824"
+
+[[files]]
+file = "kubejs/data/natures_spirit/seasons/crop/yellow_larch_sapling.json"
+hash = "5adf648e8fae038948b399194944226165e60e2067124e00ad56ca20a3f71203"
 
 [[files]]
 file = "kubejs/server_scripts/fixMismatches.js"
@@ -198,6 +338,11 @@ hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
 metafile = true
 
 [[files]]
+file = "mods/better-end-cities-for-betterend.pw.toml"
+hash = "bee63c46a00f72ac82943f0bfe35c8f6a7f12347884974bd90b55e28ecec5d80"
+metafile = true
+
+[[files]]
 file = "mods/better-log4j-config.pw.toml"
 hash = "338a0ff74af0f9fc9e4a0897caef4fbbd14df4152fe370c8923c9d205ce3f99e"
 metafile = true
@@ -250,6 +395,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "9a9190378ed3f2dcedb262fe971cfb4f1ee2f404f6c68d35970d29d413ed7645"
+metafile = true
+
+[[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "31a75fd95d5c670301f8f135ae702e6913a43a7605a28e44425f4838b30f338e"
 metafile = true
 
 [[files]]
@@ -378,6 +528,11 @@ hash = "29441fd308425c08493976be5282ed60513a0514c72a32717dac202b223994d9"
 metafile = true
 
 [[files]]
+file = "mods/create-power-loader-fabric.pw.toml"
+hash = "819147b9b5a29485a20add7bb2453d3d0100dfa2df7466d9474b92c8122120b9"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
 metafile = true
@@ -445,11 +600,6 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
-metafile = true
-
-[[files]]
-file = "mods/default-server-properties.pw.toml"
-hash = "d3befebcecd648583cb83594df3e0fda6287b73e0d211c243cd83ba4ecab52be"
 metafile = true
 
 [[files]]
@@ -635,6 +785,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "3a7db6706e525500dfc81b151f87a60e9719cc24ed3e43c51de90d5e786f49d5"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "33dfeaeec4730da684884aff3b41b7ff2ed43839239c36c762b3102524ebdce3"
 metafile = true
 
 [[files]]
