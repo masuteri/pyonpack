@@ -987,11 +987,6 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
-file = "mods/no-elytra-firework-boost.pw.toml"
-hash = "8c330f07bc725906775522ed600b49193b5e7dbe29c0176f9a2d2d2db41e1b91"
-metafile = true
-
-[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "52cb3f66f42a2b86b59ef57328223ac4a16bba5493a516472d8565d33dd99f8d"
 metafile = true
