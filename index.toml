@@ -1102,11 +1102,6 @@ hash = "ca20c45a8596e1f184c616c940b1f0afec8238fcd8c432e7b0afb19097477501"
 metafile = true
 
 [[files]]
-file = "mods/simple-copper-pipes.pw.toml"
-hash = "bb57d8a6c0f2ec81e97915c00affaa644415b1d41f897d23a4972d0e9a2d5732"
-metafile = true
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "97e82bdfb6735a8eed7f0a4727290d7cc2d3f7b2d4bf2d6a5ff4c7e34fea9513"
 metafile = true
