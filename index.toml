@@ -503,6 +503,11 @@ hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
 metafile = true
 
 [[files]]
+file = "mods/cooldown-coordinator.pw.toml"
+hash = "6737a0662cc09ac740603c2ea1d114482c0d96bc049e7106884b7dd6125de3e0"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "fbcb74f0c731dcbfd8c43321587af0e442277078ef8629cf3ba56b951121789b"
 metafile = true
@@ -985,6 +990,11 @@ metafile = true
 [[files]]
 file = "mods/obsidianui.pw.toml"
 hash = "686b89da26171e8ceccf28d8bb2fc7029168310dfddf1edb04cc3935a47e12f2"
+metafile = true
+
+[[files]]
+file = "mods/omnihopper.pw.toml"
+hash = "bf5fce9a1d5ffa923145c8e178ac6cef28a558340fea8a4832828b5ce4472bce"
 metafile = true
 
 [[files]]
