@@ -447,11 +447,6 @@ hash = "bb8cb321888f275138f31bae4999e869f2a92402d353933bb9f6103584b672a8"
 metafile = true
 
 [[files]]
-file = "mods/chest-tracker.pw.toml"
-hash = "42732832d1d4aba8c3f7787173850da1b6430bb3c0133f487d10e332cf2b1ac9"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 hash = "8cc8ae82b42d7da756faa8d03bc3073bac5d4c494606d926cd238e3a9c5d7352"
 metafile = true
@@ -564,11 +559,6 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "d7efd7d686ed6465c3eb2a71a5be177876a774388fbb31804c29f3c55141b8df"
-metafile = true
-
-[[files]]
-file = "mods/createfabricreibugfix.pw.toml"
-hash = "5c4463d9b082ee1e4c9faa67734814296c0f4795735da2e298d7a0f8ddaf059b"
 metafile = true
 
 [[files]]
@@ -852,6 +842,11 @@ hash = "c43375da9a71c4a51f171be02d148cc6e7d22b0b1294fed996d88616b4184aa1"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "dc79db669eaa070bd80c16160b9fcebe278128a128bb58b1352ec633a8c0f7a7"
+metafile = true
+
+[[files]]
 file = "mods/jline4mcdsrv.pw.toml"
 hash = "58567b23252ec837faa0d3ab12c85b0315b6e3101da0337631d7f49893b962f4"
 metafile = true
@@ -1072,13 +1067,8 @@ hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
-file = "mods/rei-enchantment-info.pw.toml"
-hash = "6acc8f41483d16e0325fac6f182dfb7f87825c5899c107322d4ba0bafc7b8994"
-metafile = true
-
-[[files]]
 file = "mods/rei.pw.toml"
-hash = "f6bab22238c39308fc1824e9bcecb9ab530c080ce1dc30c7337802ef3e00a481"
+hash = "97e16b6d5ad077873d5afec2cbd8ea2124fac325517c06a1ee3c94ffef940c9a"
 metafile = true
 
 [[files]]
@@ -1098,7 +1088,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "099f4613975cba72fd83510efccfa85c4c15e446aebf082584c24e87f2ab918e"
+hash = "dc3d074c6a373e163e8dca652ebdcfcc31a38749b678a79aa37e4b714fc6c38e"
 metafile = true
 
 [[files]]
