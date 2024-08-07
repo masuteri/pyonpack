@@ -61,6 +61,10 @@ file = "config/do_a_barrel_roll-server.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "6e7b8430620c1c975c1b06715c3ebb6e9ee2990680795588d741cc078d8c5a0e"
+
+[[files]]
 file = "config/leaves_us_in_peace.json"
 hash = "f7c4b7f22f5833d4abc807a50c037cbbab672adc598acfa9fc8e8d5ef05118b0"
 
