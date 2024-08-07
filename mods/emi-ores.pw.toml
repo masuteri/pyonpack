@@ -1,6 +1,6 @@
 name = "EMI Ores"
 filename = "emi_ores-0.4+1.20.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/sG4TqDb8/versions/DLW2L0g5/emi_ores-0.4%2B1.20.1.jar"

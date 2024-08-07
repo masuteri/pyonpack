@@ -1,6 +1,6 @@
 name = "EMI Loot"
 filename = "emi_loot-0.6.6+1.20.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/qbbO7Jns/versions/lwhMjJHL/emi_loot-0.6.6%2B1.20.1.jar"

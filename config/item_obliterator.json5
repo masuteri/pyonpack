@@ -1,0 +1,14 @@
+{
+    "configVersion": 2,
+    "blacklisted_items": [
+        "ad_astra:ostrum_fluid_pipe",
+        "ad_astra:desh_fluid_pipe",
+        "tconstruct:gear_cast",
+        "tconstruct:gear_sand_cast",
+        "tconstruct:gear_red_sand_cast",
+        "tconstruct:coin_cast",
+        "tconstruct:coin_sand_cast",
+        "tconstruct:coin_red_sand_cast"
+    ],
+    "use_hashmap_optimizations": false
+}

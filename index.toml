@@ -61,6 +61,10 @@ file = "config/do_a_barrel_roll-server.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "ac473a2250adf1dcbecb9767ff710fefa677ed6267f8b30014f591da83aa4c55"
+
+[[files]]
 file = "config/leaves_us_in_peace.json"
 hash = "f7c4b7f22f5833d4abc807a50c037cbbab672adc598acfa9fc8e8d5ef05118b0"
 
@@ -503,8 +507,13 @@ hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
 metafile = true
 
 [[files]]
+file = "mods/cooldown-coordinator.pw.toml"
+hash = "6737a0662cc09ac740603c2ea1d114482c0d96bc049e7106884b7dd6125de3e0"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
-hash = "ab1566c9ea0587d70dec35e0938660ef85f989af47ea373e2542021bb775cb8d"
+hash = "fbcb74f0c731dcbfd8c43321587af0e442277078ef8629cf3ba56b951121789b"
 metafile = true
 
 [[files]]
@@ -555,6 +564,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "d7efd7d686ed6465c3eb2a71a5be177876a774388fbb31804c29f3c55141b8df"
+metafile = true
+
+[[files]]
+file = "mods/createfabricreibugfix.pw.toml"
+hash = "5c4463d9b082ee1e4c9faa67734814296c0f4795735da2e298d7a0f8ddaf059b"
 metafile = true
 
 [[files]]
@@ -643,28 +657,18 @@ hash = "6bdbb7f91051ec0cf3f105585be12ba65f26f2c6d779d8d369d9a77753ae1754"
 metafile = true
 
 [[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "115f86486b31fa06fcbbb7e898328a27fd5e85f1d642613348144af7961b46a4"
-metafile = true
-
-[[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "6ed9dba064110665c3dcf26be139c68b290ef0079e8aece1d2aced9484ebf85b"
+hash = "7cd3a0c7b21f98aa751fbd8c99712a0191e75884e04993063ee5ebcbb82b0f0f"
 metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
-hash = "bf4caa5dc97f8220b13500269cc4b34b7ff9fb6e561dda3603cb05a3564e6d3e"
+hash = "2b2b8bea3a86d10693fce68d3ee5f6e055da599695fbe21644f9516f57bb7852"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "a685dc41c1361b3bf5b77533826a1216534e1c689fee371c002e9e9fcccdf712"
-metafile = true
-
-[[files]]
-file = "mods/emiffect.pw.toml"
-hash = "1a1bd64e1b729d6f8eb8f5e7879359214f353980824775805d27b9324ec1e176"
+hash = "0dbaf67ae6857aa44caa055b5110722b1147eb3107f56c0ba2a858833bf15f7f"
 metafile = true
 
 [[files]]
@@ -674,7 +678,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "c80f5af57bf600ce0f77479ddc6c3c63117024ce2f334aaf384959253b6bdcdd"
+hash = "a6b87f63429f4558272ce9d17cac84018c413163ac89aea8547c93856632000b"
 metafile = true
 
 [[files]]
@@ -694,7 +698,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "6f33e7987c00191a7290c2c541ff3c82be88d1a826f1749d523a1471a602cf21"
+hash = "f5bb3bae60efef967aa106b109ca8fa36a353a8a1b5c5c94a40109a5154e432e"
 metafile = true
 
 [[files]]
@@ -708,18 +712,13 @@ hash = "06859e85abd86899e44b38c090d53f5804550aca2a23924fbb6bb1867d0b859a"
 metafile = true
 
 [[files]]
-file = "mods/extra-mod-integrations.pw.toml"
-hash = "49b308fba7960ec5b4d0bceb2114ffffcdbb18506a2b97dcc4d9ecf027591df6"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
 metafile = true
 
 [[files]]
@@ -844,17 +843,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
-hash = "58f7add27e44c94b7ab7a14fa33342780fc93fd1fb37c40e20563efb764276d1"
+hash = "ccf6d5c394ae08243f852a14e196f5d6311f280d766bef6c03943dd7f653a1fe"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "c43375da9a71c4a51f171be02d148cc6e7d22b0b1294fed996d88616b4184aa1"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "2516da6e994384dc1087e972510efdb88502b19bf141c5b86212a4b0655ddbfc"
 metafile = true
 
 [[files]]
@@ -944,7 +938,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4e13389756716b48c9636e61698698e8f32cfd895e01bc7d51cc97b6f45a6ea8"
+hash = "246a59bcab39e5551eaaf9cf0a347482034dbbe14234a76d1d95cd0f697852c2"
 metafile = true
 
 [[files]]
@@ -993,11 +987,6 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
-file = "mods/no-elytra-firework-boost.pw.toml"
-hash = "8c330f07bc725906775522ed600b49193b5e7dbe29c0176f9a2d2d2db41e1b91"
-metafile = true
-
-[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "52cb3f66f42a2b86b59ef57328223ac4a16bba5493a516472d8565d33dd99f8d"
 metafile = true
@@ -1015,6 +1004,11 @@ metafile = true
 [[files]]
 file = "mods/obsidianui.pw.toml"
 hash = "686b89da26171e8ceccf28d8bb2fc7029168310dfddf1edb04cc3935a47e12f2"
+metafile = true
+
+[[files]]
+file = "mods/omnihopper.pw.toml"
+hash = "bf5fce9a1d5ffa923145c8e178ac6cef28a558340fea8a4832828b5ce4472bce"
 metafile = true
 
 [[files]]
@@ -1078,6 +1072,16 @@ hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
+file = "mods/rei-enchantment-info.pw.toml"
+hash = "6acc8f41483d16e0325fac6f182dfb7f87825c5899c107322d4ba0bafc7b8994"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "f6bab22238c39308fc1824e9bcecb9ab530c080ce1dc30c7337802ef3e00a481"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
 metafile = true
@@ -1093,6 +1097,11 @@ hash = "f3dbbcc93a34c8ba38b2e5a1ab3d5e898099d420ded6bd14ac01e0a7386b3b9a"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "099f4613975cba72fd83510efccfa85c4c15e446aebf082584c24e87f2ab918e"
+metafile = true
+
+[[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "348642687400058e8d300192ac3d4ea98d1e65e9ccc35e8cb7be227b6f790cd5"
 metafile = true
@@ -1100,11 +1109,6 @@ metafile = true
 [[files]]
 file = "mods/seasonhud-fabric.pw.toml"
 hash = "ca20c45a8596e1f184c616c940b1f0afec8238fcd8c432e7b0afb19097477501"
-metafile = true
-
-[[files]]
-file = "mods/simple-copper-pipes.pw.toml"
-hash = "bb57d8a6c0f2ec81e97915c00affaa644415b1d41f897d23a4972d0e9a2d5732"
 metafile = true
 
 [[files]]
@@ -1153,11 +1157,6 @@ hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
 metafile = true
 
 [[files]]
-file = "mods/starlight.pw.toml"
-hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
-metafile = true
-
-[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "1624e47e8890c8e7a09a7f808f2fd3f01b6d07ce350e9b9c7ccc86aea9eda1fa"
 metafile = true
@@ -1184,7 +1183,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "a0de07d074c2f5d0e72f70a7b066f4d5aa2748179f05ddca2189376651c29464"
+hash = "2fd77b5be91e6e7ca940d8f0e448d3665078d429910927e414fcf5b6e3cb5167"
 metafile = true
 
 [[files]]
