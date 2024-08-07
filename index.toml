@@ -62,7 +62,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "6e7b8430620c1c975c1b06715c3ebb6e9ee2990680795588d741cc078d8c5a0e"
+hash = "ac473a2250adf1dcbecb9767ff710fefa677ed6267f8b30014f591da83aa4c55"
 
 [[files]]
 file = "config/leaves_us_in_peace.json"
@@ -657,6 +657,21 @@ hash = "6bdbb7f91051ec0cf3f105585be12ba65f26f2c6d779d8d369d9a77753ae1754"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "7cd3a0c7b21f98aa751fbd8c99712a0191e75884e04993063ee5ebcbb82b0f0f"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "2b2b8bea3a86d10693fce68d3ee5f6e055da599695fbe21644f9516f57bb7852"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "0dbaf67ae6857aa44caa055b5110722b1147eb3107f56c0ba2a858833bf15f7f"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "81293a0aad64a6000ba0b25642341074d7bb369c2f8b5f1dd842fcf7eb4088ec"
 metafile = true
@@ -1144,11 +1159,6 @@ metafile = true
 [[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
-metafile = true
-
-[[files]]
-file = "mods/starlight.pw.toml"
-hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
 
 [[files]]
