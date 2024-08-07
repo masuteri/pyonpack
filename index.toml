@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "ab1566c9ea0587d70dec35e0938660ef85f989af47ea373e2542021bb775cb8d"
+hash = "fbcb74f0c731dcbfd8c43321587af0e442277078ef8629cf3ba56b951121789b"
 metafile = true
 
 [[files]]
@@ -674,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "c80f5af57bf600ce0f77479ddc6c3c63117024ce2f334aaf384959253b6bdcdd"
+hash = "a6b87f63429f4558272ce9d17cac84018c413163ac89aea8547c93856632000b"
 metafile = true
 
 [[files]]
@@ -694,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "6f33e7987c00191a7290c2c541ff3c82be88d1a826f1749d523a1471a602cf21"
+hash = "f5bb3bae60efef967aa106b109ca8fa36a353a8a1b5c5c94a40109a5154e432e"
 metafile = true
 
 [[files]]
@@ -719,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
 metafile = true
 
 [[files]]
@@ -844,7 +844,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
-hash = "58f7add27e44c94b7ab7a14fa33342780fc93fd1fb37c40e20563efb764276d1"
+hash = "ccf6d5c394ae08243f852a14e196f5d6311f280d766bef6c03943dd7f653a1fe"
 metafile = true
 
 [[files]]
@@ -854,7 +854,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2516da6e994384dc1087e972510efdb88502b19bf141c5b86212a4b0655ddbfc"
+hash = "3a58d1e133a1f37c898465c5037217240bf58a9926a9cc3018c440ae6bd3d4ca"
 metafile = true
 
 [[files]]
@@ -944,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4e13389756716b48c9636e61698698e8f32cfd895e01bc7d51cc97b6f45a6ea8"
+hash = "246a59bcab39e5551eaaf9cf0a347482034dbbe14234a76d1d95cd0f697852c2"
 metafile = true
 
 [[files]]
@@ -1184,7 +1184,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "a0de07d074c2f5d0e72f70a7b066f4d5aa2748179f05ddca2189376651c29464"
+hash = "2fd77b5be91e6e7ca940d8f0e448d3665078d429910927e414fcf5b6e3cb5167"
 metafile = true
 
 [[files]]
