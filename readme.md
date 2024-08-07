@@ -11,3 +11,4 @@ The modlist is curated and checked for bugs and errors, everything is preconfigu
 - LGBT+ related: Thigh highs, estrogen and Meow!
 - Technical: Create with 8 addons
 - QoL: Mouse Wheelie, REI, Amecs and more
+- Exploration: Better End/Nether, Bigger end cities, Terralith
