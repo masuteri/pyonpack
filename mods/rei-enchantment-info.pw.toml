@@ -1,0 +1,13 @@
+name = "REI Enchantment Info"
+filename = "rei-enchantment-info-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ITxRECBA/versions/YqY7xWDY/rei-enchantment-info-1.0.0.jar"
+hash-format = "sha1"
+hash = "1b1c8c110085903ac9cb88be98da3094ae8d9998"
+
+[update]
+[update.modrinth]
+mod-id = "ITxRECBA"
+version = "YqY7xWDY"

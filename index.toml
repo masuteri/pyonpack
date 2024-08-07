@@ -558,6 +558,11 @@ hash = "d7efd7d686ed6465c3eb2a71a5be177876a774388fbb31804c29f3c55141b8df"
 metafile = true
 
 [[files]]
+file = "mods/createfabricreibugfix.pw.toml"
+hash = "5c4463d9b082ee1e4c9faa67734814296c0f4795735da2e298d7a0f8ddaf059b"
+metafile = true
+
+[[files]]
 file = "mods/crops-love-rain.pw.toml"
 hash = "86210effb15bdc190682590f926e36a7866b8d6488431cdddd17ee1f1d2a07f7"
 metafile = true
@@ -643,31 +648,6 @@ hash = "6bdbb7f91051ec0cf3f105585be12ba65f26f2c6d779d8d369d9a77753ae1754"
 metafile = true
 
 [[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "115f86486b31fa06fcbbb7e898328a27fd5e85f1d642613348144af7961b46a4"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "6ed9dba064110665c3dcf26be139c68b290ef0079e8aece1d2aced9484ebf85b"
-metafile = true
-
-[[files]]
-file = "mods/emi-ores.pw.toml"
-hash = "bf4caa5dc97f8220b13500269cc4b34b7ff9fb6e561dda3603cb05a3564e6d3e"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "a685dc41c1361b3bf5b77533826a1216534e1c689fee371c002e9e9fcccdf712"
-metafile = true
-
-[[files]]
-file = "mods/emiffect.pw.toml"
-hash = "1a1bd64e1b729d6f8eb8f5e7879359214f353980824775805d27b9324ec1e176"
-metafile = true
-
-[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "81293a0aad64a6000ba0b25642341074d7bb369c2f8b5f1dd842fcf7eb4088ec"
 metafile = true
@@ -705,11 +685,6 @@ metafile = true
 [[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "06859e85abd86899e44b38c090d53f5804550aca2a23924fbb6bb1867d0b859a"
-metafile = true
-
-[[files]]
-file = "mods/extra-mod-integrations.pw.toml"
-hash = "49b308fba7960ec5b4d0bceb2114ffffcdbb18506a2b97dcc4d9ecf027591df6"
 metafile = true
 
 [[files]]
@@ -850,11 +825,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "c43375da9a71c4a51f171be02d148cc6e7d22b0b1294fed996d88616b4184aa1"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "3a58d1e133a1f37c898465c5037217240bf58a9926a9cc3018c440ae6bd3d4ca"
 metafile = true
 
 [[files]]
@@ -1078,6 +1048,16 @@ hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
+file = "mods/rei-enchantment-info.pw.toml"
+hash = "6acc8f41483d16e0325fac6f182dfb7f87825c5899c107322d4ba0bafc7b8994"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "f6bab22238c39308fc1824e9bcecb9ab530c080ce1dc30c7337802ef3e00a481"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
 metafile = true
@@ -1090,6 +1070,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "f3dbbcc93a34c8ba38b2e5a1ab3d5e898099d420ded6bd14ac01e0a7386b3b9a"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "099f4613975cba72fd83510efccfa85c4c15e446aebf082584c24e87f2ab918e"
 metafile = true
 
 [[files]]

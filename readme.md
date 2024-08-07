@@ -10,4 +10,4 @@ The modlist is curated and checked for bugs and errors, everything is preconfigu
 ## Mod highlights
 - LGBT+ related: Thigh highs, estrogen and Meow!
 - Technical: Create with 8 addons
-- QoL: Mouse Wheelie, EMI, Amecs and more
+- QoL: Mouse Wheelie, REI, Amecs and more
