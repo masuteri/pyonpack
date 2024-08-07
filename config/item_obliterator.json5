@@ -1,0 +1,8 @@
+{
+    "configVersion": 2,
+    "blacklisted_items": [
+        "ad_astra:ostrum_fluid_pipe",
+        "ad_astra:desh_fluid_pipe"
+    ],
+    "use_hashmap_optimizations": false
+}
