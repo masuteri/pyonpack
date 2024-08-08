@@ -46,7 +46,7 @@ hash = "efec887a1e786635c024a98da796c0a6a5a557425d6909b8b483f2214d93a2aa"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "6d3f4b450c97a1a48ef1737ec03e0ef3e2705720fe0edf7d83deff9e9f4bd447"
+hash = "f4f82ef5c5ac2dd5d68c1cd652d1af5e404477b1618130cb7190aa6149381eaf"
 
 [[files]]
 file = "config/createfood.json5"
@@ -86,7 +86,7 @@ hash = "07b0a932a91d03df079388b7a98c7c8fc96f76c09dd8f6180a6d96be2902610e"
 
 [[files]]
 file = "config/travelersbackpack.json5"
-hash = "f1f9d6a5ff2351726d274a573c61cad47a80b839a0c7b66283b1d6869e99a3c4"
+hash = "2fda22546fa7dec9ffbdba3da8f31e7b217e778a18a6e0363f8d91078aac0268"
 
 [[files]]
 file = "config/veinmining-common.toml"
