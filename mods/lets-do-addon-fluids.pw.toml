@@ -1,0 +1,13 @@
+name = "[Let's Do Addon] Fluids"
+filename = "doaddonfluids-fabric-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PGVF51co/versions/VyBqXrqd/doaddonfluids-fabric-1.3.0.jar"
+hash-format = "sha1"
+hash = "192203ebe38c8cb9dc79b581b20e356f43ac82b0"
+
+[update]
+[update.modrinth]
+mod-id = "PGVF51co"
+version = "VyBqXrqd"

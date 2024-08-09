@@ -46,7 +46,7 @@ hash = "efec887a1e786635c024a98da796c0a6a5a557425d6909b8b483f2214d93a2aa"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "f4f82ef5c5ac2dd5d68c1cd652d1af5e404477b1618130cb7190aa6149381eaf"
+hash = "b8c188783bcbc90e8bd192c93efb2a962ec08460280dc8d6cc633d4abf9440c2"
 
 [[files]]
 file = "config/createfood.json5"
@@ -59,6 +59,130 @@ hash = "4866d534f5944417491059aeed345176f01a2e3587b27816b8bb5a53e4ae7924"
 [[files]]
 file = "config/do_a_barrel_roll-server.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/fancymenu/assets/placeholder16x16.png"
+hash = "5928ef8f52fc6b4794d4072c7a6fd9ed8e2522fe2092b23b0b40136092e3aacb"
+
+[[files]]
+file = "config/fancymenu/assets/pyon.icns"
+hash = "897295086a19176f89ff63659eb0b6145a92285f1d74439c886069b665049aae"
+
+[[files]]
+file = "config/fancymenu/assets/pyon.png"
+hash = "3685dfc2b2574bf1395cbc513bc4baf3871df27d9dbaad26dbfbf939611eea99"
+
+[[files]]
+file = "config/fancymenu/assets/pyon16x16.png"
+hash = "8369258ef616122a2cb695c15a34bfb296d260b0e2488bc45fd1dfc06e27a127"
+
+[[files]]
+file = "config/fancymenu/assets/pyon32x32.png"
+hash = "2ddc91bac79a10d16e4506c47965007b8676f5a121d19e4b0bc09ff376012e20"
+
+[[files]]
+file = "config/fancymenu/assets/sk.ogg"
+hash = "5f399bcdc06c7206ff5e40dc6377b409d05e7096df6313c325801ad11391a82b"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "32d9b03fb15fdec709781ce61003a0020dcc666d79d7c27e77f61165c425126d"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "4806e3e539d4e91678b4121911894b080782b18ec3ec6e5f6f861569adb9391e"
+
+[[files]]
+file = "config/fancymenu/customization/credits.modpack.pyon_layout.txt"
+hash = "f687ad4a652243e291276f5e63c2cf0adc55397f0513ed73189f8d35b2793757"
+
+[[files]]
+file = "config/fancymenu/customization/titlescrnpyon.txt"
+hash = "1c01d4d17013a4032db25bc5cb07f8100ec29817320eac981cec043bc8700113"
+
+[[files]]
+file = "config/fancymenu/customization/universal_layout.txt"
+hash = "7e06adff87d6eef131bcafede2c793fd7c7e27967dda74fcec4bb88369bbef8e"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "066580d1f4394720301334efd4e7e4557dec71c4052d7813e58a3d340c27cd18"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "b74c11f32b616279cb657b047ce6a9a72c10f593c389c893b4594313b08072ce"
+
+[[files]]
+file = "config/fancymenu/panoramas/netherpano/panorama/panorama_0.png"
+hash = "5448e28f8610a14811aa3ca6da2d9c54b793491809b8a83bba34849560790250"
+
+[[files]]
+file = "config/fancymenu/panoramas/netherpano/panorama/panorama_1.png"
+hash = "df3c9d6da38aaf78be5c0df15bd5651b704df52aee043d6f203481acfbf606c5"
+
+[[files]]
+file = "config/fancymenu/panoramas/netherpano/panorama/panorama_2.png"
+hash = "5a1e1910d2bddb70ca901263f1a4a45baf233a0b75e6e490c31471d5bb4ee76b"
+
+[[files]]
+file = "config/fancymenu/panoramas/netherpano/panorama/panorama_3.png"
+hash = "f1651e93b9c7310ee4b860bb691770737a28a962def92c9c7f729ea2a4196e56"
+
+[[files]]
+file = "config/fancymenu/panoramas/netherpano/panorama/panorama_4.png"
+hash = "26b906a9aaaa4b0804a79d50d24597de31fa357a654dce89b0bf35988a75943e"
+
+[[files]]
+file = "config/fancymenu/panoramas/netherpano/panorama/panorama_5.png"
+hash = "56010b79fc573cf48b7ca7693ccf7f65f4d0618267d846d18363150a048acf96"
+
+[[files]]
+file = "config/fancymenu/panoramas/netherpano/properties.txt"
+hash = "aaaa0b315ef4433b80580ac7a93191b0086d73d6a5972f3205f078c126a108bd"
+
+[[files]]
+file = "config/fancymenu/panoramas/nyxbasepano/panorama/panorama_0.png"
+hash = "4421cf556dc7c8852c4aec5d9ea30f4a43e9c4daf7d56395cee8d540cd2e213c"
+
+[[files]]
+file = "config/fancymenu/panoramas/nyxbasepano/panorama/panorama_1.png"
+hash = "f16669d2ce8ad110d875a813db4ab782398de4df61de824495bd187566483d89"
+
+[[files]]
+file = "config/fancymenu/panoramas/nyxbasepano/panorama/panorama_2.png"
+hash = "db5f0f56f01cb7d8e931cd045197b6fa15691cb8066d9f3366b5f9f10fb98b59"
+
+[[files]]
+file = "config/fancymenu/panoramas/nyxbasepano/panorama/panorama_3.png"
+hash = "5dfa03b1f3f1f470477e52dc1cef982c33f1d6de7f7a0fbac89885513482ab0d"
+
+[[files]]
+file = "config/fancymenu/panoramas/nyxbasepano/panorama/panorama_4.png"
+hash = "09ffdf54eea1eb4607191d46410a4beec5d465bb880ec6db19f788f8a028fe80"
+
+[[files]]
+file = "config/fancymenu/panoramas/nyxbasepano/panorama/panorama_5.png"
+hash = "664a86537f29780143143486ffee9298b2a531da1f7210747474f3c0a68d8eb9"
+
+[[files]]
+file = "config/fancymenu/panoramas/nyxbasepano/properties.txt"
+hash = "f992b58afe3b069b6cfd41a4feac5c2bab4afdf9d05fbe9e70acfcfbe393722e"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "beaffe208e1b98e22e21d0aac21fd75b44d632e7cc311a9b4d1fba26a76a6b2a"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -111,10 +235,6 @@ hash = "966de88a4a0fe48cf9ab2fd0e2c20a0d2f4277b473a76827826c0a6ce29fb833"
 [[files]]
 file = "kubejs/config/common.properties"
 hash = "d671138370aa5251375fd006cc615e13e9d20f2223be042046e98243e027b19d"
-
-[[files]]
-file = "kubejs/config/packicon.png"
-hash = "550de05db0dbec117dedeed8e4d29dabe80230a1ab37a439d5f991355682df30"
 
 [[files]]
 file = "kubejs/data/lootr/tags/blocks/convert/barrels.json"
@@ -289,6 +409,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+metafile = true
+
+[[files]]
+file = "mods/argonauts.pw.toml"
+hash = "597db06a671717007869d4aa033732fa7d03fc370deb934f2085601fd2c9b99d"
 metafile = true
 
 [[files]]
@@ -517,6 +642,11 @@ hash = "c5ed8f788371776fa029b0e5a2ea95b56ffd7611a1b31dc93100d39d0f1fcbd5"
 metafile = true
 
 [[files]]
+file = "mods/create-compat-betterend-betternether.pw.toml"
+hash = "46ae37714072b7b7ec4c9685f2c2147fd7d6c17006ac0f431523d94ad90a44ee"
+metafile = true
+
+[[files]]
 file = "mods/create-contraption-terminals.pw.toml"
 hash = "ec59a461cbe72e6013f814b29b98817ca9e294ae4e3d401788134fec16cd693e"
 metafile = true
@@ -529,6 +659,11 @@ metafile = true
 [[files]]
 file = "mods/create-food.pw.toml"
 hash = "29441fd308425c08493976be5282ed60513a0514c72a32717dac202b223994d9"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "246738f5a6bb9726299202fbe7a639ca214cf704e3ea6ca20414b9600c0a7412"
 metafile = true
 
 [[files]]
@@ -609,6 +744,11 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "5eddd4c6a5cba7cd4d3d9a0acd0e810ae040d92b6c1928984a9497a5187d143b"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+hash = "aa1e63de697ec8db39b302c9bd21f78fde021dd0040d9162618c06c552bc0d04"
 metafile = true
 
 [[files]]
@@ -874,6 +1014,26 @@ metafile = true
 [[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
 hash = "57cae0b7139111e4c74b41efc9543e662bf7300344e01d8b13e67ee1b47d38b9"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-addon-compat.pw.toml"
+hash = "a608be55a1e1873460298ead5bae3e7919500d44e9cb0ef586d7ceebd6e7b048"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-addon-fluids.pw.toml"
+hash = "d5febd18cdbdf6797c95f8bb00475f2c9fc770071fd70cdd999f951c1a76a8b1"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-brewery.pw.toml"
+hash = "3d990d10e5fa005a013d56a005e0714aa96488a9c45666dd9e4ba0479a021eab"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "7a998266163b86c9b86db23fee75480da9c46830c818431812e7270e004e6208"
 metafile = true
 
 [[files]]
