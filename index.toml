@@ -877,6 +877,11 @@ hash = "ee9bd23aea09a314966d57a211d84aa288e7803c4277c6996edac334eee77c58"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "f08086c797096ec7cea728330085f68f4d7f505938855a9b06f3c4c64a7bf6af"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-expansion.pw.toml"
 hash = "c0e1d11ad52b0fb88617f0380d0e340dc1d0d0962c8f000bbad559441e8ad222"
 metafile = true
@@ -992,6 +997,11 @@ hash = "58567b23252ec837faa0d3ab12c85b0315b6e3101da0337631d7f49893b962f4"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -1049,6 +1059,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "a6816c935def9a18a816e0944e094299aaf884b7867d9e8a213aa209eb7a2d44"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
 
 [[files]]
