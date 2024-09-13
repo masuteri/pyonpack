@@ -538,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d20fa45129b302c95bfeeefc4497841309a6b15f2c73736be0c39addedcaf38d"
+hash = "066bcf27ce64eeaeb8e595f3768743c02e3a5fa2f7338357a523b8a72f0814df"
 metafile = true
 
 [[files]]
@@ -608,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "04a63264b461340b3fbb4cfb76e6a9f5bf3dcafcfea915680a0673b719583cf7"
+hash = "a22a8fdcae0455822f1c3722c75f4bcd3f0ac340ccd3a453f8b1497b3ab4cf4f"
 metafile = true
 
 [[files]]
@@ -658,7 +658,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-food.pw.toml"
-hash = "29441fd308425c08493976be5282ed60513a0514c72a32717dac202b223994d9"
+hash = "50748f580c52fe6efb8ae7e5591f7293a9131e21f17e4108f5c16f68c795f4e9"
 metafile = true
 
 [[files]]
@@ -703,7 +703,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "73a5bc61a1ea97a1747b5d515c52ca96221b0207f6d1f02d4d8440943c287951"
+hash = "1d31492e8feb9020cb107014c0ad65756080b7a6812f60da0ac2eff938f39979"
 metafile = true
 
 [[files]]
@@ -768,7 +768,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-physics.pw.toml"
-hash = "e72175ab64027b0ed50b23b0c5e96b5a1a5c784ba436f28692cb7a49383554e1"
+hash = "5ef4c540de89a64a17e4917898e6e07318536e605793a6843f12741d73bd8c0e"
 metafile = true
 
 [[files]]
@@ -783,12 +783,12 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "6bdbb7f91051ec0cf3f105585be12ba65f26f2c6d779d8d369d9a77753ae1754"
+hash = "308042da19196b5d76e26cb76b3cef11d992474460c1c2219feecd19ec0fcb8c"
 metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "7cd3a0c7b21f98aa751fbd8c99712a0191e75884e04993063ee5ebcbb82b0f0f"
+hash = "79b26f10af981a3c48c899778a997cdc9eff52ec222fb0686ea54a655532f38a"
 metafile = true
 
 [[files]]
@@ -798,7 +798,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "0dbaf67ae6857aa44caa055b5110722b1147eb3107f56c0ba2a858833bf15f7f"
+hash = "9b1c3ee30b1b02fd872449e9591e1dc4f08ec5c0e9d3df51d9aaa76ea9d23afd"
 metafile = true
 
 [[files]]
@@ -828,7 +828,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "f5bb3bae60efef967aa106b109ca8fa36a353a8a1b5c5c94a40109a5154e432e"
+hash = "f9dce46d026c3206e31903c64a148ffa4a272cb3c111cc6e965a7d1af440e9de"
 metafile = true
 
 [[files]]
@@ -888,7 +888,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "2bd34b05c6028e28476426b00166378845aac5c0cbbcadf72f94d31f7754ab67"
+hash = "20fb844701c598c4e24eac283ce0fca4f81f1a7e46e38b49dcbf95bfb575b9f5"
 metafile = true
 
 [[files]]
@@ -983,7 +983,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "c43375da9a71c4a51f171be02d148cc6e7d22b0b1294fed996d88616b4184aa1"
+hash = "c7814771fb151ba0f3f3722e2b3008d52b7f2429d5add8c93c00c2c7f5792d59"
 metafile = true
 
 [[files]]
@@ -1267,6 +1267,11 @@ hash = "dc3d074c6a373e163e8dca652ebdcfcc31a38749b678a79aa37e4b714fc6c38e"
 metafile = true
 
 [[files]]
+file = "mods/rsls.pw.toml"
+hash = "32ec021a4e53b0f936304d7ea4d3e3da2df902070326275e79c89cc2ed78ef9c"
+metafile = true
+
+[[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "348642687400058e8d300192ac3d4ea98d1e65e9ccc35e8cb7be227b6f790cd5"
 metafile = true
@@ -1289,6 +1294,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-scrolling-refurbished.pw.toml"
 hash = "63fb4d0bf1628d43ce5347ea274fba55837e709e3520a2bdfb083fd3b108a667"
+metafile = true
+
+[[files]]
+file = "mods/smoothmenu-refabricated.pw.toml"
+hash = "a522418ba699f68e0d84dc75a4e6c14ccf6bf247f59a8f3f584c05b2598423a3"
 metafile = true
 
 [[files]]
@@ -1323,7 +1333,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "1624e47e8890c8e7a09a7f808f2fd3f01b6d07ce350e9b9c7ccc86aea9eda1fa"
+hash = "4ca11e8b2f08020232bce98e6329e0831b95c9f4be962126ab865aee503a9724"
 metafile = true
 
 [[files]]
