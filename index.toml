@@ -61,6 +61,10 @@ file = "config/do_a_barrel_roll-server.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
+file = "config/extended_drawers.json"
+hash = "9e5c368c2dbcd28208a028e850b0dd20a89f404b1ab2ca774d342fc736c4d4b2"
+
+[[files]]
 file = "config/fancymenu/assets/placeholder16x16.png"
 hash = "5928ef8f52fc6b4794d4072c7a6fd9ed8e2522fe2092b23b0b40136092e3aacb"
 
@@ -235,6 +239,10 @@ hash = "966de88a4a0fe48cf9ab2fd0e2c20a0d2f4277b473a76827826c0a6ce29fb833"
 [[files]]
 file = "kubejs/config/common.properties"
 hash = "d671138370aa5251375fd006cc615e13e9d20f2223be042046e98243e027b19d"
+
+[[files]]
+file = "kubejs/data/ElectroArtifex_FDE_rice_panacles_fix.zip"
+hash = "e199de267513105b2ea20c2cb799db1a171ee6bcb6de2d0241afc9d9ec64e95a"
 
 [[files]]
 file = "kubejs/data/lootr/tags/blocks/convert/barrels.json"
@@ -1448,7 +1456,7 @@ metafile = true
 
 [[files]]
 file = "mods/yetjustanothersilver.pw.toml"
-hash = "889f33c590ae2ef5066b5afa7c354aa0226bfc655bd7bf2566a3c13262198041"
+hash = "c9bbe58ea720c69fbd3bcfcf90e3b27deea02fabecb836337afb88efd825a815"
 metafile = true
 
 [[files]]
